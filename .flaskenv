@@ -1,0 +1,2 @@
+FLASK_APP=microtest.py
+FLASK_ENV=development
